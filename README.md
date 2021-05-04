@@ -9,11 +9,10 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devin989)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.hackerrank.com/Pawara_S_18)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pawara.siri.13/)
-&nbsp;
+&nbsp; 
 <!--
 **aLLUPS/aLLUPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## About Me:
-
 
 - 🎓 I'm currently studying for BSc (Hons) in Information Technology & Management
 - 🔭 I’m currently working on lifestyle application for NewYork residents: __WATERrhythms__
@@ -22,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- - 🤔 I’m looking for help with any issue related to ASP .NET Core web applications -->
 - 💬 Ask me about C#, ASP .NET Core, JavaScript, React JS... it is my humble pleasure to help you.
 - 📫 You can reach me __pawara.contact@gmail.com__
-
+ &nbsp;
 
 ## Languages and Tools:
 
