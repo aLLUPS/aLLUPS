@@ -18,6 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 **About Me:**
 
+
 - 🎓 I'm currently studying for BSc (Hons) in Information Technology & Management
 - 🔭 I’m currently working on lifestyle application for NewYork residents: __WATERrhythms__
 - 🌱 I’m currently learning C#
@@ -27,6 +28,8 @@ You can use the website to generate badges: https://shields.io/
 - 📫 You can reach me __pawara.contact@gmail.com__
 
 <hr>
+
+
 **Languages and Tools:**
 
 <p>
@@ -35,11 +38,13 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code> 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>  
   <br />
+  <br/>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nuget/nuget-ar21.svg"></code> 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <br />
+  <br/>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
