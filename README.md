@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 <!--
 **aLLUPS/aLLUPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-**About Me:**
+###About Me:
 
 
 - 🎓 I'm currently studying for BSc (Hons) in Information Technology & Management
@@ -30,7 +30,7 @@ You can use the website to generate badges: https://shields.io/
 <hr>
 
 
-**Languages and Tools:**
+###Languages and Tools:
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
