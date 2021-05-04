@@ -9,12 +9,9 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devin989)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.hackerrank.com/Pawara_S_18)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pawara.siri.13/)
-
 &nbsp;
-
 <!--
 **aLLUPS/aLLUPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 ## About Me:
 
 
