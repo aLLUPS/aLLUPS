@@ -1,5 +1,4 @@
 ### 👋 Hi there, I am Pawara Siriwardhane!
-<hr>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -27,7 +26,6 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about C#, ASP .NET Core, JavaScript, React JS... it is my humble pleasure to help you.
 - 📫 You can reach me __pawara.contact@gmail.com__
 
-<hr>
 
 ## Languages and Tools:
 
