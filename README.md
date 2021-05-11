@@ -39,12 +39,6 @@ You can use the website to generate badges: https://shields.io/
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=aLLUPS&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" /><!-- wi*quL3fcV --><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLLUPS&hide=html&hide_title=true&hide_border=true&layout=compact&theme=algolia" /><!-- wi*quL3fcV --><img height="160px"  src="https://github-readme-streak-stats.herokuapp.com?user=aLLUPS&theme=algolia&hide_border=true" alt="pawara-siriwardhane" />
  </td>
  </tr>
- 
- <tr>
-  <td colspan=2>
-   
-  </td>
- </tr>
  </tr>
 </table>
  &nbsp;
