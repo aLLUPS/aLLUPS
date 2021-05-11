@@ -1,6 +1,6 @@
 ![](https://github.com/aLLUPS/aLLUPS/blob/main/backgroundImage.gif)
 
-### 👋 Hi there, I am Pawara Siriwardhane!
+### 👋 Hi there, You can reach me at
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -18,7 +18,8 @@ You can use the website to generate badges: https://shields.io/
 
 <table border="0">
  <tr>
-    <td>
+ <tr>
+  <td colspan=2>
      <h2>About Me:</h2>
 
 - 🎓 I'm currently studying for BSc (Hons) in Information Technology & Management.
@@ -29,16 +30,23 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about C#, ASP .NET Core, JavaScript, React JS... it is my humble pleasure to help you.
 - 📫 You can reach me __pawara.contact@gmail.com__
   </td>
-  
-    <td>
- <h2>My Github Stats</h2>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aLLUPS&label=Profile%20views&color=0e75b6&style=flat" alt="pawara-siriwardhane" /> </p>
- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aLLUPS&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLLUPS&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+ </tr>
 
+ <tr>
+ <td colspan=2>
+    <h2>My Github Stats</h2>
+  
+   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aLLUPS&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLLUPS&hide=html&hide_title=true&hide_border=true&layout=compact&theme=algolia" />
+ </td>
+ </tr>
+ 
+ <tr>
+  <td colspan=2>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=aLLUPS&theme=algolia&hide_border=true" alt="pawara-siriwardhane" />
   </td>
  </tr>
+ </tr>
 </table>
-
  &nbsp;
 
 ## Languages and Tools:
