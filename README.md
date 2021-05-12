@@ -26,9 +26,9 @@ You can use the website to generate badges: https://shields.io/
 - 🔭 I’m currently working on lifestyle application for NewYork residents: __WATERrhythms__
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on any React or ASP .NET Core projects.
-<!-- - 🤔 I’m looking for help with any issue related to ASP .NET Core web applications -->
 - 💬 Ask me about C#, ASP .NET Core, JavaScript, React JS... it is my humble pleasure to help you.
 - 📫 You can reach me __pawara.contact@gmail.com__
+<!-- - 🤔 I’m looking for help with any issue related to ASP .NET Core web applications -->
   </td>
  </tr>
 
