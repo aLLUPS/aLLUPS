@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
  <tr>
  <tr>
   <td colspan=2>
-     <h2>About Me:  <img src="https://komarev.com/ghpvc/?username=aLLUPS&label=Profile%20views&color=FA7343&style=for-the-badge" alt="pawara-siriwardhane" /></h2>
+     <h2>About Me:</h2>
 
 - 🎓 I'm currently studying for BSc (Hons) in Information Technology & Management.
 - 🔭 I’m currently working on lifestyle application for NewYork residents: __WATERrhythms__
@@ -36,7 +36,7 @@ You can use the website to generate badges: https://shields.io/
 
  <tr>
  <td colspan=2>
-    <h2>My Github Stats</h2>
+    <h2>My Github Stats: <img src="https://komarev.com/ghpvc/?username=aLLUPS&label=Profile%20views&color=FA7343&style=for-the-badge" alt="pawara-siriwardhane" /></h2>
   
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=aLLUPS&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" /><!-- wi*quL3fcV --><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLLUPS&hide=html&hide_title=true&hide_border=true&layout=compact&theme=algolia" /><!-- wi*quL3fcV --><img height="160px"  src="https://github-readme-streak-stats.herokuapp.com?user=aLLUPS&theme=algolia&hide_border=true" alt="pawara-siriwardhane" />
  </td>
