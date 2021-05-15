@@ -1,14 +1,17 @@
-![](https://github.com/aLLUPS/aLLUPS/blob/main/backgroundImage.gif)
+![Header](https://github.com/aLLUPS/aLLUPS/blob/main/backgroundImage.gif)
 
 ### 👋 Hi there, You can reach me at
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
+[![LinkedIn](https://img.shields.io/badge/Portfolio-330F63?style=for-the-badge&logo=appveyor&logoColor=white)](https://pawara.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/pawara73)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pawara73.medium.com/)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aLLUPS)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.hackerrank.com/Pawara_S_18)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Pawara_S_18)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pawara_73)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pawara.siri.13/)
 
 <br/>
@@ -20,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
  <tr>
  <tr>
   <td colspan=2>
-     <h2>About Me:</h2>
+     <h2>About Me:  <img src="https://komarev.com/ghpvc/?username=aLLUPS&label=Profile%20views&color=FA7343&style=for-the-badge" alt="pawara-siriwardhane" /></h2>
 
 - 🎓 I'm currently studying for BSc (Hons) in Information Technology & Management.
 - 🔭 I’m currently working on lifestyle application for NewYork residents: __WATERrhythms__
