@@ -73,8 +73,4 @@ You can use the website to generate badges: https://shields.io/
   <br />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aLLUPS" alt="Trophys of Pawara" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=aLLUPS&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
