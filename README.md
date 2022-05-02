@@ -73,4 +73,4 @@ You can use the website to generate badges: https://shields.io/
   <br />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aLLUPS&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=aLLUPS&theme=nord)](https://github.com/ryo-ma/github-profile-trophy) -->
