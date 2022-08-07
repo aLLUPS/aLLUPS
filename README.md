@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![LinkedIn](https://img.shields.io/badge/Portfolio-330F63?style=for-the-badge&logo=appveyor&logoColor=white)](https://pawara.tech)
+[![LinkedIn](https://img.shields.io/badge/Portfolio-330F63?style=for-the-badge&logo=appveyor&logoColor=white)](https://pawara.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/pawara73)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pawara73.medium.com/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12215054/pawara-siriwardhane?tab=profile)
